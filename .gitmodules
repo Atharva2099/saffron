@@ -1,0 +1,3 @@
+[submodule "SynapticCircuits"]
+	path = SynapticCircuits
+	url = https://github.com/Atharva2099/SynapticCircuits.git
